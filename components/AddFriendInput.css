@@ -1,0 +1,43 @@
+:local(.addFriendInput) {
+  border-radius: 0;
+  border-color: #ABAAAA;
+  border-left: 0;
+  border-right: 0;
+}
+
+._3jaPb1L59MMkpazsBKaBnJ a {
+  color: #FFF;
+  text-decoration: underline;
+  padding: 0 5px;
+}
+
+._3jaPb1L59MMkpazsBKaBnJ a:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.errorMsg {
+  color: red;
+  background: #FFF;
+  height: 20px;
+  font-size: 12px;
+}
+
+.col-align {
+  float:left; 
+  padding-right: 20px;
+  padding-left: 3px;
+  color: white;
+  font-size: 12px;
+}
+.col-align input {
+  margin-left: 5px;
+}
+
+.addBtn {
+  font-size: 12px;
+  color: darkblue;
+  background: white; 
+  border: 1px solid #ccc
+}
+
